@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Favorite Twitter Searches</string>
+    <string name="searchURL">http://search.twitter.com/search?q=</string>
+    <string name="tagPrompt">Назначьте тег запросу</string>
+    <string name="queryPrompt">Введите поисковый запрос Твиттера</string>
+    <string name="taggedSearches">Тегированные поиски</string>
+    <string name="edit">Изменить</string>
+    <string name="clearTags">Очистить теги</string>
+    <string name="save">Сохранить</string>
+    <string name="erase">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="OK">OK</string>
+    <string name="missingTitle">Текст отсутствует</string>
+    <string name="missingMessage"> Введите текст запроса и назначьте ему тег.</string>
+    <string name="confirmTitle">Вы уверены?</string>
+    <string name="confirmMessage"> Сейчас будут удалены все сохраненные поисковые запросы</string>
+
+</resources>
